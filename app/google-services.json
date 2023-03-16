@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412050190198",
+    "project_id": "bullcamp-4bcb3",
+    "storage_bucket": "bullcamp-4bcb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412050190198:android:f74f37d64c71d950189457",
+        "android_client_info": {
+          "package_name": "com.example.thebullcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412050190198-85cqftve43nt7eril2hk4sq2cbotpi7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEsZ14iiw4GuGC3XnNKqxf_vPr20NNes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412050190198-85cqftve43nt7eril2hk4sq2cbotpi7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
